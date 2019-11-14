@@ -20,8 +20,8 @@ class MainSection extends Component {
             <div className="col-md-6 text-center">
               <h3>Explore & Connect</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Tempore, itaque consequatur voluptates minus inventore ratione!
+                Hello There,
+		You have reached the Centralized Access Management Webpage. Navigate using the above navigation bar.
               </p>
 
               <div className="d-flex">
