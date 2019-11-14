@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Initializing the NPM Project
+
+Change to the Working Directory of the project and start the npm using the following command. It will install all the NPM dependencies in the node_modules directory.
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
