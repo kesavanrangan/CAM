@@ -29,8 +29,8 @@ class MainSection extends Component {
                   <i className="fas fa-check"></i>
                 </div>
                 <div className="align-self-end">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id
-                  minima quam quae quibusdam impedit praesentium.
+                  
+
                 </div>
               </div>
               <div className="d-flex">
@@ -38,8 +38,8 @@ class MainSection extends Component {
                   <i className="fas fa-check"></i>
                 </div>
                 <div className="align-self-end">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id
-                  minima quam quae quibusdam impedit praesentium.
+                  
+
                 </div>
               </div>
             </div>
